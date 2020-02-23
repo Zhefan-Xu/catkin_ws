@@ -18,3 +18,6 @@ Call NBV_3d Planner
 ```
 rosrun nbv_3d planning
 ```
+
+## Stop
+`ctrl c' to stop NBV planner when it is finished.
