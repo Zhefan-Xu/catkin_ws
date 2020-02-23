@@ -1,4 +1,5 @@
 # catkin_ws
+Add sjtu_drone, nbv_3d, move_quadrotor to your catkin workspace.
 
 ## Compile
 ```
