@@ -2,7 +2,7 @@
 
 ## Compile
 ```
-cd ~/catkin_ws
+cd ~/your_catkin_ws
 catkin_make
 ```
 
